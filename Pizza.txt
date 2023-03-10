@@ -1,0 +1,18 @@
+
+* Pizzalar:
+1: Klasik
+	Küçük:94.90 TL
+        Orta:119.90 TL
+        Büyük:174.90 TL
+2: Margarita
+	Küçük:94.90 TL
+        Orta:119.90 TL
+        Büyük:174.90 TL
+3: Türk Pizza
+	Küçük:109.90 TL
+        Orta:134.90 TL
+        Büyük:189.90 TL
+4: Dominos Pizza
+	Küçük:119.90 TL
+        Orta:159.90 TL
+        Büyük:219.90 TL
